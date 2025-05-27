@@ -3,8 +3,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-7.4+-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MySQL-8.0+-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/XAMPP+-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/XAMPP+-red?style=for-the-badge" />
+    
 </p>
 
 <p align="center">
