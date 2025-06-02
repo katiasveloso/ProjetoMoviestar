@@ -41,4 +41,4 @@ Criar uma aplicação web para gerenciamento de filmes, onde o usuário pode:
 ### 1. Clone o repositório
 
 ```bash
-
+https://github.com/katiasveloso/ProjetoMoviestar.git
