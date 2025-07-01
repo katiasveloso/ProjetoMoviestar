@@ -32,6 +32,8 @@ Criar uma aplicação web para gerenciamento de filmes, onde o usuário pode:
 - 🐬 MySQL
 - 🎨 XAMPP
 - 🌐 phpmyadmin
+- 🔹 HTML e CSS
+- 🎯 Bootstrap
 - 🔀 PDO para conexão  com banco de dados
 
 ---
