@@ -1,18 +1,23 @@
 <?php
 
-require_once("db.php");
-require_once("globals.php");
+require_once("templates/header.php");
+
 
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Filmes</title>
-</head>
-<body>
-    <h1>Filmes</h1>
-</body>
-</html>
+
+<div id="main-container" class="container-fluid">
+
+<h1>Conteúdo</h1>
+
+</div>
+
+
+
+<?php
+
+require_once("templates/footer.php");
+
+?>
+
+
