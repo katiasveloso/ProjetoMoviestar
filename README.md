@@ -30,9 +30,9 @@ Criar uma aplicação web para gerenciamento de filmes, onde o usuário pode:
 
 - 🐘 PHP 7.4 ou superior
 - 🐬 MySQL
-- 🎨 HTML5, CSS3
-- 🌐 Bootstrap (opcional)
-- 🔀 PDO para conexão segura com banco de dados
+- 🎨 XAMPP
+- 🌐 phpmyadmin
+- 🔀 PDO para conexão  com banco de dados
 
 ---
 
